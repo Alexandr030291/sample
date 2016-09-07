@@ -1,0 +1,125 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1471875764349">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/StackDowble/src/main/java/frontend/SignUpServlet.java" timestamp="1472481257640">
+        <mark key="[" line="30" column="44" />
+        <mark key="]" line="30" column="44" />
+        <mark key="." line="30" column="44" />
+        <mark key="^" line="30" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/StackDowble/src/main/java/etc/ExampleServer.java" timestamp="1471875695370">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/StackDowble/src/main/java/main/UserProfile.java" timestamp="1472481127401">
+        <mark key="[" line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/StackDowble/src/main/java/main/AccountService.java" timestamp="1472219725077" />
+      <file name="$USER_HOME$/IdeaProjects/StackDowble/src/main/java/frontend/SignInServlet.java" timestamp="1472481234631">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/StackDowble/pom.xml" timestamp="1472220643039" />
+      <file name="$USER_HOME$/IdeaProjects/StackDowble/src/main/java/main/Main.java" timestamp="1472481418789" />
+      <file name="$USER_HOME$/IdeaProjects/StackDowble/src/main/java/main/main.java" timestamp="1471185767713">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/StackDowble/src/main/java/frontend/Frontend.java" timestamp="1472048811998">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/StackDowble/src/main/java/main/AccontService.java" timestamp="1472219484424">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="8" column="57" />
+        <mark key="." line="8" column="57" />
+      </file>
+      <file name="/fragment.java" timestamp="1471875191242">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/StackDowble/pom.xml" />
+      <jump line="9" column="14" filename="$USER_HOME$/IdeaProjects/StackDowble/src/main/java/main/Main.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text>UserProfile</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>UserProfile</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ID0gbnVsbA==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CmltcG9ydCBtYWluLkFjY291bnRTZXJ2aWNlOw==</text>
+      </register>
+      <register name="4" type="4">
+        <text>ccountService</text>
+      </register>
+      <register name="5" type="4">
+        <text>/**
+ * Created by alexandr on 26.08.16.
+ */</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGFsZXhhbmRyIG9uIDI2LjA4LjE2LgogKi8=</text>
+      </register>
+      <register name="7" type="4">
+        <text>String, UserProfile</text>
+      </register>
+      <register name="8" type="4">
+        <text />
+      </register>
+      <register name="9" type="4">
+        <text>*/</text>
+      </register>
+      <register name="-" type="4">
+        <text>UserProfile</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
